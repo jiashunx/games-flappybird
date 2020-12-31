@@ -1,4 +1,4 @@
-package io.github.jiashunx.masker.flappybird.view;
+package io.github.jiashunx.games.flappybird.view;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -10,13 +10,13 @@ import javax.swing.JFrame;
 
 import org.dom4j.Element;
 
-import io.github.jiashunx.masker.flappybird.controller.FBListener;
-import io.github.jiashunx.masker.flappybird.model.Bird;
-import io.github.jiashunx.masker.flappybird.model.FBImgIcon;
-import io.github.jiashunx.masker.flappybird.model.Pipe;
-import io.github.jiashunx.masker.flappybird.model.Score;
-import io.github.jiashunx.masker.flappybird.xml.InXMLAnalysis;
-import io.github.jiashunx.masker.flappybird.xml.XMLRoot;
+import io.github.jiashunx.games.flappybird.controller.FBListener;
+import io.github.jiashunx.games.flappybird.model.Bird;
+import io.github.jiashunx.games.flappybird.model.FBImgIcon;
+import io.github.jiashunx.games.flappybird.model.Pipe;
+import io.github.jiashunx.games.flappybird.model.Score;
+import io.github.jiashunx.games.flappybird.xml.InXMLAnalysis;
+import io.github.jiashunx.games.flappybird.xml.XMLRoot;
 
 public class FBMainFrame extends JFrame implements InXMLAnalysis {
 

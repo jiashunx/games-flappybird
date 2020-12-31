@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.jiashunx</groupId>
-  <artifactId>masker-flappybird</artifactId>
-  <name>masker-flappybird</name>
+  <artifactId>games-flappybird</artifactId>
+  <name>games-flappybird</name>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -31,9 +31,9 @@
   </licenses>
   <scm>
     <tag>master</tag>
-    <url>git@github.com:jiashunx/masker-flappybird.git</url>
-    <connection>scm:git:git@github.com:jiashunx/masker-flappybird.git</connection>
-    <developerConnection>scm:git:git@github.com:jiashunx/masker-flappybird.git</developerConnection>
+    <url>git@github.com:jiashunx/games-flappybird.git</url>
+    <connection>scm:git:git@github.com:jiashunx/games-flappybird.git</connection>
+    <developerConnection>scm:git:git@github.com:jiashunx/games-flappybird.git</developerConnection>
   </scm>
   <developers>
     <developer>
@@ -89,8 +89,8 @@
           <archive>
             <manifestEntries>
               <Manifest-Version>1.0</Manifest-Version>
-              <Bundle-Name>masker-flappybird</Bundle-Name>
-              <Bundle-SymbolicName>masker-flappybird</Bundle-SymbolicName>
+              <Bundle-Name>games-flappybird</Bundle-Name>
+              <Bundle-SymbolicName>games-flappybird</Bundle-SymbolicName>
               <Bundle-Version>${version}</Bundle-Version>
               <Bundle-RequiredExecutionEnvironment>J2SE-${jdk.compiler.version}</Bundle-RequiredExecutionEnvironment>
               <Bundle-Vendor>io.github.jiashunx</Bundle-Vendor>

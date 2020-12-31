@@ -1,4 +1,4 @@
-package io.github.jiashunx.masker.flappybird.xml;
+package io.github.jiashunx.games.flappybird.xml;
 
 import org.dom4j.Element;
 

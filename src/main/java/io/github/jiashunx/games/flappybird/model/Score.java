@@ -1,4 +1,4 @@
-package io.github.jiashunx.masker.flappybird.model;
+package io.github.jiashunx.games.flappybird.model;
 
 import java.awt.Graphics;
 
@@ -6,8 +6,8 @@ import javax.swing.ImageIcon;
 
 import org.dom4j.Element;
 
-import io.github.jiashunx.masker.flappybird.xml.InXMLAnalysis;
-import io.github.jiashunx.masker.flappybird.xml.XMLRoot;
+import io.github.jiashunx.games.flappybird.xml.InXMLAnalysis;
+import io.github.jiashunx.games.flappybird.xml.XMLRoot;
 
 /**
  * 积分

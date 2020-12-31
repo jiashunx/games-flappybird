@@ -1,6 +1,6 @@
-package io.github.jiashunx.masker.flappybird;
+package io.github.jiashunx.games.flappybird;
 
-import io.github.jiashunx.masker.flappybird.view.FBMainFrame;
+import io.github.jiashunx.games.flappybird.view.FBMainFrame;
 
 public class FlappyBird {
 

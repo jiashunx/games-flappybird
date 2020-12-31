@@ -1,4 +1,4 @@
-package io.github.jiashunx.masker.flappybird.xml;
+package io.github.jiashunx.games.flappybird.xml;
 
 import java.io.File;
 import java.io.IOException;

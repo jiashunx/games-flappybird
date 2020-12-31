@@ -1,4 +1,4 @@
-package io.github.jiashunx.masker.flappybird.model;
+package io.github.jiashunx.games.flappybird.model;
 
 import java.awt.Graphics;
 

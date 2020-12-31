@@ -1,4 +1,4 @@
-package io.github.jiashunx.masker.flappybird.controller;
+package io.github.jiashunx.games.flappybird.controller;
 
 import java.awt.Cursor;
 import java.awt.event.MouseEvent;
@@ -8,10 +8,10 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.Random;
 
-import io.github.jiashunx.masker.flappybird.model.Bird;
-import io.github.jiashunx.masker.flappybird.model.FBImgIcon;
-import io.github.jiashunx.masker.flappybird.model.Pipe;
-import io.github.jiashunx.masker.flappybird.view.FBMainFrame;
+import io.github.jiashunx.games.flappybird.model.Bird;
+import io.github.jiashunx.games.flappybird.model.FBImgIcon;
+import io.github.jiashunx.games.flappybird.model.Pipe;
+import io.github.jiashunx.games.flappybird.view.FBMainFrame;
 
 /**
  * 游戏窗体的监听器，控制器
